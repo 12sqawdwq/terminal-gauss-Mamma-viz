@@ -1,5 +1,14 @@
+# 赛博mummy（doge）
+当你进行疲劳的编码工作时，终端中出现一只可爱的赛博mummy（doge）会让你感到轻松愉快！它不仅能渲染高分辨率的函数图像，还能为你的编程时光增添一丝乐趣。快来试试吧！
+
+when you are doing tiring coding work, having a cute cyber mummy (doge) appear in your terminal can make you feel relaxed and happy! It can not only render high-resolution function images but also add a touch of fun to your programming time. Give it a try!
+
+<div align="center">
+  <img src="./111.jpg" width="600" alt="演示">
+</div>
+
 <!-- Language toggle: click a summary to expand the language you want. -->
-# 🔀 Language / 语言切换
+## 🔀 Language / 语言切换
 
 <details>
 <summary>🇨🇳 中文（点此查看中文说明）</summary>
