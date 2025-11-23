@@ -139,7 +139,6 @@ int main() {
             color_buffer = (Color *)malloc(width * height * sizeof(Color));
             output_frame = (char *)malloc(width * height * 32 + height * 8);
         }
-
         memset(char_buffer, ' ', width * height);
         memset(zbuffer, 0, width * height * sizeof(float));
 
